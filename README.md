@@ -11,4 +11,4 @@
 | Controle PS3 original  |  R$ 60,00 |  ![image](https://images-americanas.b2w.io/produtos/01/00/oferta/40679/7/40679784_1GG.jpg) |
 | Teclado RGB (cooler Master masterkeys lite L)  |  R$ 159,00 | ![image](https://http2.mlstatic.com/cooler-master-masterkeys-lite-l-rgb-br-sgk-3040-kkmf1-br-D_NQ_NP_610711-MLB26997159241_032018-F.jpg)  |
 | Memória RAM DDR3 (4GB). Temos 3 disponíveis. | R$ 110,00 (cada) | ![image](https://images0.kabum.com.br/produtos/fotos/11980/11980_index_g.jpg) |
-| Processador Intel i7 990x, 3.46GHz, 12MB, 6 núcleos + Placa mãe Intel DX58SO2 - Socket LGA1366 | R$ 1500,00 | ![image](https://netcomputadores.com.br/dbimg/produtos/boxdx58so2_9043_m.jpg) ![image](https://http2.mlstatic.com/processadores-D_NP_679461-MLB29038855775_122018-Q.jpg) |
+| Processador Intel i7 990x, 3.46GHz, 12MB, 6 núcleos + Placa mãe Intel DX58SO2 - Socket LGA1366 | R$ 1500,00 | ![image1](https://netcomputadores.com.br/dbimg/produtos/boxdx58so2_9043_m.jpg), ![image2](https://http2.mlstatic.com/processadores-D_NP_679461-MLB29038855775_122018-Q.jpg) |
